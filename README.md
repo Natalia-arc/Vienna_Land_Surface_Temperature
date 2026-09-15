@@ -33,8 +33,8 @@ The final maps show spatial variation in Land Surface Temperature across Vienna.
 
 Two indicators were analysed:
 
-* **Mean LST (°C)** — average surface temperature within each district.
-* **Maximum LST (°C)** — highest recorded surface temperature within each district.
+* **Mean LST (°C)** - average surface temperature within each district.
+* **Maximum LST (°C)** - highest recorded surface temperature within each district.
 
 ## Map
 
